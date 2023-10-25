@@ -1,4 +1,4 @@
-# off-target-RNA-editing-analyses
+# Tools for the analysis of RNA editing off tragets
 This is part of the work published by Elena Lesch 2023. 
 
 README for extractionPG.sh script, developed by Philipp Gerke
